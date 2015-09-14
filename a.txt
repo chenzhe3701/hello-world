@@ -1,0 +1,43 @@
+[33mcommit 621c650adddb2d4340264f5f2e9f309abd6e0ebc[m
+Author: chenzhe3701 <chenzhezju@gmail.com>
+Date:   Sun Sep 13 02:48:11 2015 -0400
+
+    added new benchmarks
+
+[33mcommit 1b1f5abb4e7a1a3e5802c5ce192dfafcaea700f2[m
+Author: chenzhe3701 <chenzhezju@gmail.com>
+Date:   Sun Sep 13 02:37:39 2015 -0400
+
+    1st
+
+[33mcommit 54d81f453404236aa802822e7cde08cdf77c995f[m
+Merge: 652ad39 f871e44
+Author: chenzhe3701 <chenzhezju@gmail.com>
+Date:   Sat Sep 12 02:46:08 2015 -0400
+
+    Merge pull request #2 from chenzhe3701/readme-edits
+    
+    Readme edits, fixes #1
+
+[33mcommit f871e44722aab93bf806a9c106e858c8d005d6b0[m
+Author: chenzhe3701 <chenzhezju@gmail.com>
+Date:   Sat Sep 12 02:11:24 2015 -0400
+
+    Finish README
+    
+    Did not mention moon tacos.
+
+[33mcommit 652ad398345700bd37b031d7c7ae7653037d9ca2[m
+Author: chenzhe3701 <chenzhezju@gmail.com>
+Date:   Sat Sep 12 01:26:31 2015 -0400
+
+    Update README.md
+    
+    Added one line
+
+[33mcommit d2bf2e2c3e91561c757d1b8deef6a64d92dadf67[m
+Author: chenzhe3701 <chenzhezju@gmail.com>
+Date:   Sat Sep 12 01:04:25 2015 -0400
+
+    Initial commit
+bbb
